@@ -1,7 +1,7 @@
 # Phoney Casino: product site
 
 Static website for the Phoney Casino app, served by GitHub Pages straight from the root of `main` (Settings › Pages ›
-Deploy from a branch); every push to `main` publishes it. No build step: plain HTML, CSS and JavaScript.
+Deploy from a branch); every push to `main` publishes it. Custom domain: `phoneycasino.com` (`CNAME`); the store listings link to its pages. No build step: plain HTML, CSS and JavaScript.
 
 | Page | Path |
 | --- | --- |
