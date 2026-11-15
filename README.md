@@ -1,7 +1,8 @@
 # Phoney Casino: product site
 
-Static website for the Phoney Casino app, served by GitHub Pages straight from the root of `main` (Settings › Pages ›
-Deploy from a branch); every push to `main` publishes it. Custom domain: `phoneycasino.com` (`CNAME`); the store listings link to its pages. No build step: plain HTML, CSS and JavaScript.
+Static website for the Phoney Casino app, served by GitHub Pages at https://utoappia.github.io/Phoney-Casino_Product-Page/
+(the store listings link to it). Pages publishes the `gh-pages` branch, a copy of `main`: push both
+(`git push origin main main:gh-pages`). No build step: plain HTML, CSS and JavaScript.
 
 | Page | Path |
 | --- | --- |
