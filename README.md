@@ -1,8 +1,8 @@
 # Phoney Casino: product site
 
 Static website for the Phoney Casino app, served by GitHub Pages at https://utoappia.github.io/Phoney-Casino_Product-Page/
-(the store listings link to it). Pages publishes the `gh-pages` branch, a copy of `main`: push both
-(`git push origin main main:gh-pages`). No build step: plain HTML, CSS and JavaScript.
+(the store listings link to it). Pages publishes the root of `main` (Settings › Pages ›
+Deploy from a branch), so every push to `main` updates it. No build step: plain HTML, CSS and JavaScript.
 
 | Page | Path |
 | --- | --- |
