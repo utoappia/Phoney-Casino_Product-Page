@@ -15,9 +15,9 @@ window.SITE = {
       'zh-Hans': '把全世界的赌场装进口袋',
     },
     intro: {
-      en: '60 games in 9 cities: roulette, blackjack, baccarat, slots, sic bo, pachinko, bowling, pool and more. Play with virtual coins only: there is nothing to buy and nothing to cash out.',
-      'zh-Hant': '9 座城市、60 款遊戲：輪盤、21點、百家樂、老虎機、骰寶、柏青哥、保齡球、撞球等等。只用虛擬金幣遊玩：沒有任何購買，也無法兌換現金。',
-      'zh-Hans': '9 座城市、60 款游戏：轮盘、21点、百家乐、老虎机、骰宝、柏青哥、保龄球、台球等等。只用虚拟金币游玩：没有任何购买，也无法兑换现金。',
+      en: 'Casino tables, slots and arcade games in 9 cities: roulette, blackjack, baccarat, slots, sic bo, pachinko, bowling, pool and more. Play with virtual coins only: there is nothing to buy and nothing to cash out.',
+      'zh-Hant': '9 座城市的賭場與遊樂場遊戲：輪盤、21點、百家樂、老虎機、骰寶、柏青哥、保齡球、撞球等等。只用虛擬金幣遊玩：沒有任何購買，也無法兌換現金。',
+      'zh-Hans': '9 座城市的赌场与游戏厅游戏：轮盘、21点、百家乐、老虎机、骰宝、柏青哥、保龄球、台球等等。只用虚拟金币游玩：没有任何购买，也无法兑换现金。',
     },
     appStore: { en: 'App Store', 'zh-Hant': 'App Store', 'zh-Hans': 'App Store' },
     playStore: { en: 'Google Play', 'zh-Hant': 'Google Play', 'zh-Hans': 'Google Play' },
@@ -43,9 +43,9 @@ window.SITE = {
       id: '01-hero',
       title: { en: 'A casino world tour in your pocket', 'zh-Hant': '把全世界的賭場裝進口袋', 'zh-Hans': '把全世界的赌场装进口袋' },
       text: {
-        en: '60 games in 9 cities. Virtual coins only, never real money.',
-        'zh-Hant': '9 座城市、60 款遊戲。只用虛擬金幣，不涉及真錢。',
-        'zh-Hans': '9 座城市、60 款游戏。只用虚拟金币，不涉及真钱。',
+        en: 'Casino and arcade games in 9 cities. Virtual coins only, never real money.',
+        'zh-Hant': '9 座城市的賭場與遊樂場遊戲。只用虛擬金幣，不涉及真錢。',
+        'zh-Hans': '9 座城市的赌场与游戏厅游戏。只用虚拟金币，不涉及真钱。',
       },
     },
     {
@@ -88,9 +88,9 @@ window.SITE = {
       id: '06-arcade',
       title: { en: 'Bowling, pool, pinball & more', 'zh-Hant': '保齡球、撞球、彈珠台玩不完', 'zh-Hans': '保龄球、台球、弹球玩不完' },
       text: {
-        en: '19 arcade games to win coins between bets.',
-        'zh-Hant': '19 款遊樂場遊戲，下注之餘也能贏金幣。',
-        'zh-Hans': '19 款游戏厅游戏，下注之余也能赢金币。',
+        en: 'Arcade games to win coins between bets.',
+        'zh-Hant': '各式遊樂場遊戲，下注之餘也能贏金幣。',
+        'zh-Hans': '各式游戏厅游戏，下注之余也能赢金币。',
       },
     },
     {
