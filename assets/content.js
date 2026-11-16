@@ -133,12 +133,12 @@ window.SITE = {
 
   privacy: {
     title: { en: 'Privacy Policy', 'zh-Hant': '隱私權政策', 'zh-Hans': '隐私政策' },
-    updated: { en: 'November 14, 2026', 'zh-Hant': '2026 年 11 月 14 日', 'zh-Hans': '2026 年 11 月 14 日' },
+    updated: { en: 'November 15, 2026', 'zh-Hant': '2026 年 11 月 15 日', 'zh-Hans': '2026 年 11 月 15 日' },
     sections: {
       en: [
         {
           p: [
-            'This policy applies to the Phoney Casino app on iOS and Android, made by Utoappia. In short: we do not collect your personal information. Ads in the app are served by Google, which collects some data as described below.',
+            'This policy applies to the Phoney Casino app on iOS and Android, made by Utoappia. In short: we do not collect your personal information. Ads in the app are served by Unity Ads, which collects some data as described below.',
           ],
         },
         {
@@ -156,8 +156,8 @@ window.SITE = {
         {
           h: 'Ads',
           p: [
-            'The app offers optional video ads: you choose to watch one to earn free coins. These ads are provided by Google AdMob. To show ads, measure them and prevent fraud, Google may collect information such as your device’s IP address, device and app information, and how you interact with the ads, and may use your device’s advertising identifier on Android. On iPhone and iPad the app does not ask to track you, so Apple’s advertising identifier is not shared.',
-            'Where the law requires it (for example in the EEA, UK and Switzerland), the app shows Google’s consent form before any ad, and you can choose how your data is used. Learn how Google uses this information: https://policies.google.com/technologies/partner-sites',
+            'The app offers optional video ads: you choose to watch one to earn free coins. These ads are provided by Unity Ads (Unity Technologies). To show ads, measure them and prevent fraud, Unity may collect information such as your device’s IP address, device and app information, and how you interact with the ads, and may use your device’s advertising identifier on Android. On iPhone and iPad the app does not ask to track you, so Apple’s advertising identifier is not shared.',
+            'Where the law requires it (for example in the EEA, UK and Switzerland), Unity asks for your consent before showing personalized ads, and each ad has a privacy button where you can review your choice. Learn how Unity uses this information: https://unity.com/legal/game-player-and-app-user-privacy-policy',
           ],
         },
         {
@@ -188,7 +188,7 @@ window.SITE = {
       'zh-Hant': [
         {
           p: [
-            '本政策適用於 Utoappia 製作的「賭場來電」App（iOS 與 Android）。簡而言之：我們不蒐集你的個人資料。App 中的廣告由 Google 提供，Google 會依下方說明蒐集部分資料。',
+            '本政策適用於 Utoappia 製作的「賭場來電」App（iOS 與 Android）。簡而言之：我們不蒐集你的個人資料。App 中的廣告由 Unity Ads 提供，Unity 會依下方說明蒐集部分資料。',
           ],
         },
         {
@@ -204,8 +204,8 @@ window.SITE = {
         {
           h: '廣告',
           p: [
-            'App 提供可自由選擇觀看的影片廣告：你可以選擇觀看以獲得免費金幣。這些廣告由 Google AdMob 提供。為了顯示及衡量廣告、防範詐欺，Google 可能會蒐集你裝置的 IP 位址、裝置與 App 資訊、你與廣告的互動情形，並可能在 Android 上使用裝置的廣告識別碼。在 iPhone 和 iPad 上，App 不會要求追蹤你，因此不會分享 Apple 的廣告識別碼。',
-            '在法律要求的地區（例如歐洲經濟區、英國和瑞士），App 會在顯示任何廣告前先顯示 Google 的同意表單，讓你選擇資料的使用方式。了解 Google 如何使用這些資料：https://policies.google.com/technologies/partner-sites',
+            'App 提供可自由選擇觀看的影片廣告：你可以選擇觀看以獲得免費金幣。這些廣告由 Unity Ads（Unity Technologies）提供。為了顯示及衡量廣告、防範詐欺，Unity 可能會蒐集你裝置的 IP 位址、裝置與 App 資訊、你與廣告的互動情形，並可能在 Android 上使用裝置的廣告識別碼。在 iPhone 和 iPad 上，App 不會要求追蹤你，因此不會分享 Apple 的廣告識別碼。',
+            '在法律要求的地區（例如歐洲經濟區、英國和瑞士），Unity 會在顯示個人化廣告前徵求你的同意，每則廣告也都有隱私權按鈕，讓你查看自己的選擇。了解 Unity 如何使用這些資料：https://unity.com/legal/game-player-and-app-user-privacy-policy',
           ],
         },
         { h: '語音旁白', p: ['教學影片的旁白使用你裝置內建的文字轉語音功能，不會傳送任何資料。'] },
@@ -226,7 +226,7 @@ window.SITE = {
       'zh-Hans': [
         {
           p: [
-            '本政策适用于 Utoappia 制作的“赌场来电”应用（iOS 与 Android）。简而言之：我们不收集你的个人信息。应用中的广告由 Google 提供，Google 会按下方说明收集部分数据。',
+            '本政策适用于 Utoappia 制作的“赌场来电”应用（iOS 与 Android）。简而言之：我们不收集你的个人信息。应用中的广告由 Unity Ads 提供，Unity 会按下方说明收集部分数据。',
           ],
         },
         {
@@ -242,8 +242,8 @@ window.SITE = {
         {
           h: '广告',
           p: [
-            '应用提供可自由选择观看的视频广告：你可以选择观看以获得免费金币。这些广告由 Google AdMob 提供。为了展示和衡量广告、防范欺诈，Google 可能会收集你设备的 IP 地址、设备与应用信息、你与广告的互动情况，并可能在 Android 上使用设备的广告标识符。在 iPhone 和 iPad 上，应用不会请求跟踪你，因此不会共享 Apple 的广告标识符。',
-            '在法律要求的地区（例如欧洲经济区、英国和瑞士），应用会在展示任何广告前先显示 Google 的同意表单，让你选择数据的使用方式。了解 Google 如何使用这些信息：https://policies.google.com/technologies/partner-sites',
+            '应用提供可自由选择观看的视频广告：你可以选择观看以获得免费金币。这些广告由 Unity Ads（Unity Technologies）提供。为了展示和衡量广告、防范欺诈，Unity 可能会收集你设备的 IP 地址、设备与应用信息、你与广告的互动情况，并可能在 Android 上使用设备的广告标识符。在 iPhone 和 iPad 上，应用不会请求跟踪你，因此不会共享 Apple 的广告标识符。',
+            '在法律要求的地区（例如欧洲经济区、英国和瑞士），Unity 会在展示个性化广告前征求你的同意，每条广告也都有隐私按钮，让你查看自己的选择。了解 Unity 如何使用这些信息：https://unity.com/legal/game-player-and-app-user-privacy-policy',
           ],
         },
         { h: '语音旁白', p: ['教学视频的旁白使用你设备内置的文字转语音功能，不会发送任何数据。'] },
